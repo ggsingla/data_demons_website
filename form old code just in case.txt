@@ -1,0 +1,14 @@
+<form id=" suggestion_box" action="mailto:gautams.ic.20@nitj.ac.in" method="post">
+                        <h4 class="card-title">We will appreciate your suggestions:</h4>
+                        <p style="margin-top: 0px;">We are open for improvement</p>
+                        <!-- <h5>Give your awesome improvement ideas </h5> -->
+                        <fieldset>
+                          <textarea placeholder="Name" name="name_text" rows="1"></textarea>
+                        </fieldset>
+                        <fieldset>
+                          <textarea placeholder="Give Your Suggestion Here" tabindex="5"  name="suggestion_text" required></textarea>
+                        </fieldset>
+                        <fieldset>
+                          <button name="submit" type="submit" id="suggestion_box" data-submit="...Sending" value="text to send">Submit</button>
+                        </fieldset>
+                      </form>

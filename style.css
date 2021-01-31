@@ -89,3 +89,45 @@ textarea::placeholder{
     border:  rgb(0, 146, 0);
     border-radius: 50%;
 }
+
+.yo-yoy{
+    height: 100px;
+    position: relative;
+}
+    
+
+.button{
+    width: 100%;
+   
+    
+    text-align: center;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+}
+
+#button
+{
+    width: 50%;
+    
+    text-align: center;
+    height: 100px;
+    background-color: red;
+    
+    box-shadow: 4px 4px 4px #999;
+    font-weight: bold;
+    vertical-align: middle;
+    border-radius: 20%;
+background-color: red;
+
+box-shadow: 4px 4px 4px #999;
+font-weight: bold;
+font-weight: bold;
+font-size: 3.5em;
+}
+
+#button:hover{
+    background-color: rgb(173, 0, 0);
+}
