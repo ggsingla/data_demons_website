@@ -57,3 +57,35 @@ height:70px;
 position:relative
 }
 
+textarea::placeholder{
+    color:rgb(0, 0, 0);
+    opacity:0.7;
+}
+
+#logo
+{
+    margin-bottom: -10px;
+    
+    border-radius:100%;
+}
+
+.icon-fb{
+    color:rgb(89, 128, 255)
+}
+.icon-insta{
+    color:rgb(255, 143, 189);
+}
+
+.icon-github{
+    color: black;
+}
+
+.icon-mail{
+    color:blueviolet;
+}
+
+.icon-and{
+    color: rgb(108, 255, 108);
+    border:  rgb(0, 146, 0);
+    border-radius: 50%;
+}
